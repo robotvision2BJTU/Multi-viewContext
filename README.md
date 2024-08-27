@@ -1,4 +1,4 @@
-# Scattering Context: Dual-view Encoding-Based 3D Descriptor and Fast Search Strategy for Loop Closure Detection
+# Multi-view Context: A Robust and Efficient Global Descriptor for Loop Closure Detection in Large-scale Scenes
 ### State Key Lab of Advanced Rail Autonomous Operation, Beijing Jiaotong University(BJTU)
 This repo contains the source code and dataset for our paper:
 [paper](https://github.com/haroldgt/ScatteringContext/edit/main/README.md)
