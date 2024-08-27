@@ -81,33 +81,6 @@ To evaluate the LCD performance, you will need to **download** the required data
                        └── ...
 ```
 
-# Run & Validate MVC algorithm
-Scattering_Context folder is our proposed method. 
-<br> Next, taking the method of this paper as an example, the experimental process is described.
-
-- To test on **KITTI dataset**, Open Scattering_Context/main/main1_about_KITTI_Dataset.m file
-```
-Modify the specific sequence path in line 13.
-Modify the groundtruth pose file path in line 14.
-```
-- To test on **MulRan dataset**, Open Scattering_Context/main/main2_about_KITTI_Dataset.m file
-```
-Modify the specific sequence path in line 13.
-Modify the groundtruth pose file path in line 14.
-```
-- To test on **Freiburg Campus dataset**, Open Scattering_Context/main/main3_about_KITTI_Dataset.m file
-```
-Modify the specific sequence path in line 13.
-Modify the groundtruth pose file path in line 14.
-```
-- To test on **UrbanLoco dataset**, Open Scattering_Context/main/main4_about_KITTI_Dataset.m file
-```
-Modify the specific sequence path in line 13.
-Modify the groundtruth pose file path in line 14.
-```
-# Run & Validate other algorithms (M2DP, NDD, Scan Context, FreSCo)
-Similar to the above step, it is performed under the corresponding folder (e.g., Other_SOTA_algorithms folder). Other_SOTA_algorithms folder is other algorithms.
-
 ## Acknowledgments
 We thanks for the opensource codebases, [M2DP](https://github.com/LiHeUA/M2DP), [Scan Context](https://github.com/asdfghjkl623/scancontext/tree/master/matlab
 ), [NDD](https://github.com/zhouruihao1001/NDD) and [FreSCo](https://github.com/soytony/FreSCo).
