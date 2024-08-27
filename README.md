@@ -81,7 +81,7 @@ To evaluate the LCD performance, you will need to **download** the required data
                        └── ...
 ```
 
-# Run & Validate STC algorithm
+# Run & Validate MVC algorithm
 Scattering_Context folder is our proposed method. 
 <br> Next, taking the method of this paper as an example, the experimental process is described.
 
