@@ -1,7 +1,7 @@
 # Multi-view Context: A Robust and Efficient Global Descriptor for Loop Closure Detection in Large-scale Scenes
 ### State Key Lab of Advanced Rail Autonomous Operation, Beijing Jiaotong University(BJTU)
 This repo contains the source code and dataset for our paper:
-[paper](https://github.com/haroldgt/ScatteringContext/edit/main/README.md)
+[paper](https://github.com/robotvision2BJTU/Multi-viewContext)
 
 # Data Download and Preparation
 To evaluate the LCD performance, you will need to **download** the required datasets.
