@@ -85,7 +85,7 @@ To evaluate the LCD performance, you will need to **download** the required data
 ```
 # Example: LCD Visualization<br>
 - KITTI 00 and 13 scene.<br>
-<img src="media/KITTI_00.gif" width="300px"> <img src="media/KITTI_13.gif" width="300px"><br>
+<img src="media/KITTI_00.gif" width="360px"> <img src="media/KITTI_13.gif" width="360px"><br>
 - MulRan Riverside02 and Kaist03 scene.<br>
 <img src="media/MulRan_Riverside02.gif" width="480px"> <img src="media/MulRan_Kaist03.gif" width="480px"><br>
 
