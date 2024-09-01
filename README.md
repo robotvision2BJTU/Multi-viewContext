@@ -84,6 +84,7 @@ To evaluate the LCD performance, you will need to **download** the required data
                        └── ...
 ```
 # LCD Visualization
+![img](media/KITTI_00.gif)
 
 ## Acknowledgments
 We thanks for the opensource codebases, [M2DP](https://github.com/LiHeUA/M2DP), [Scan Context](https://github.com/asdfghjkl623/scancontext/tree/master/matlab
