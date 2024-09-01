@@ -87,7 +87,7 @@ To evaluate the LCD performance, you will need to **download** the required data
 - KITTI 00 and 13 scene.<br>
 <img src="media/KITTI_00.gif" width="380px"> <img src="media/KITTI_13.gif" width="380px"><br>
 - MulRan Riverside02 and Kaist03 scene.<br>
-<img src="media/MulRan_Riverside02.gif" width="480px"> <img src="media/MulRan_Kaist03.gif" width="480px"><br>
+<img src="media/MulRan_Riverside02.gif" width="380px"> <img src="media/MulRan_Kaist03.gif" width="380px"><br>
 
 The red trajectories indicate the existence of loop closures.
 ## Acknowledgments
