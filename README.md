@@ -1,7 +1,4 @@
-# Multi-view Context: A Robust and Efficient Global Descriptor for Loop Closure Detection in Large-scale Scenes
-### State Key Lab of Advanced Rail Autonomous Operation, Beijing Jiaotong University(BJTU)
-This repo contains the source code and dataset for our paper:
-[paper](https://github.com/robotvision2BJTU/Multi-viewContext)
+# OrthSynergy: Orthogonal Feature-based Global Descriptor for Loop Closure Detection in Large-scale Scenes
 
 # To Do
 The source code will be uploaded.
