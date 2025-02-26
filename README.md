@@ -82,7 +82,7 @@ To evaluate the LCD performance, you will need to **download** the required data
 ```
 # Example: Mapping Visualization<br>
 - HKU Campus scene.<br>
-<img src="media/KITTI_00.gif" width="520px"> <br>
+<img src="media/demo.gif" width="520px"> <br>
 # Example: LCD Visualization<br>
 - KITTI 00 and 13 scene.<br>
 <img src="media/KITTI_00.gif" width="380px"> <img src="media/KITTI_13.gif" width="380px"><br>
