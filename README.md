@@ -81,15 +81,15 @@ To evaluate the LCD performance, you will need to **download** the required data
                        └── ...
 ```
 # Example: Mapping Visualization<br>
-- HKU Campus scene.<br>
+- HKU Campus scene<br>
 <img src="media/demo.gif" width="520px"> <br>
 # Example: LCD Visualization<br>
-- KITTI 00 and 13 scene.<br>
+- KITTI 00 and 13 scene<br>
 <img src="media/KITTI_00.gif" width="380px"> <img src="media/KITTI_13.gif" width="380px"><br>
-- MulRan Riverside02 and Kaist03 scene.<br>
+- MulRan Riverside02 and Kaist03 scene<br>
 <img src="media/MulRan_Riverside02.gif" width="380px"> <img src="media/MulRan_Kaist03.gif" width="380px"><br>
 
-The red trajectories indicate the existence of loop closures.
+The red trajectory indicates the route where loop closures have been detected.
 ## Acknowledgments
 We thanks for the opensource codebases, [M2DP](https://github.com/LiHeUA/M2DP), [Scan Context](https://github.com/asdfghjkl623/scancontext/tree/master/matlab
 ), [NDD](https://github.com/zhouruihao1001/NDD) and [FreSCo](https://github.com/soytony/FreSCo).
