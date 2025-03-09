@@ -8,6 +8,7 @@
 # Loop Detection Visualization<br>
 - Campus Loop Scenes<br>
 <img src="media/loop_mapping.gif" width="520px"> <br>
+<br>
 <img src="media/loop_mapping2.gif" width="520px"> <br>
 
 # OrthSynergy Descriptors Visualization<br>
