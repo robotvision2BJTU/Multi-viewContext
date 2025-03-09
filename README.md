@@ -7,8 +7,8 @@
 
 # Loop Detection Visualization<br>
 - Campus Loop Scenes<br>
-<img src="media/loop_mapping.gif" width="520px">
-<img src="media/loop_mapping2.gif" width="520px">
+<img src="media/loop_mapping.gif" width="450px">
+<img src="media/loop_mapping2.gif" width="450px">
 
 # OrthSynergy Descriptors Visualization<br>
 - KITTI 00 and 13 scene<br>
