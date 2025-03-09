@@ -5,7 +5,7 @@
 - Release code of OrthSynergy！
 - Implementation Instructions for SLAM System Integration！
 
-# Loop Detection Visualization<br>
+# :sparkles: Loop Detection Visualization<br>
 - Campus Loop Scenes<br>
 
 <img src="media/loop_mapping.gif" width="400px"> <img src="media/loop_mapping2.gif" width="414px">
