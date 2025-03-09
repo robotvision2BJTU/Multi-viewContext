@@ -6,8 +6,9 @@
 - Implementation Instructions for SLAM System Integration！
 
 # Loop Detection Visualization<br>
-- Campus loop scenes<br>
+- Campus Loop Scenes<br>
 <img src="media/loop_mapping.gif" width="520px"> <br>
+<img src="media/loop_mapping2.gif" width="520px"> <br>
 
 # OrthSynergy Descriptors Visualization<br>
 - KITTI 00 and 13 scene<br>
