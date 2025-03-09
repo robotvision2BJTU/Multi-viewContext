@@ -1,6 +1,6 @@
 # OrthSynergy: Orthogonal Feature-based Global Descriptor for Loop Closure Detection in Large-scale Scenes
 
-# To Do
+:memo: # To Do
 The source code will be released.
 
 # Loop Detection Visualization<br>
