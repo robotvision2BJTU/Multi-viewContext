@@ -16,6 +16,11 @@
 - MulRan Riverside02 and Kaist03 scene<br>
 <img src="media/MulRan_Riverside02.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
 
+# :rocket: SLAM System Integration<br>
+- KITTI 00 and 13 scene<br>
+<img src="media/mapping_example1.gif" width="360px"> <img src="media/mapping_example2.gif" width="360px"><br>
+<img src="media/mapping_example3.gif" width="360px"> <img src="media/mapping_example4.gif" width="360px"><br>
+
 # :hammer_and_wrench: Datasets Download and Preparation
 To evaluate the LCD performance, you will need to **download** the required datasets.
 
