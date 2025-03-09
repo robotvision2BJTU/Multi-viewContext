@@ -11,13 +11,13 @@
 <img src="media/loop_mapping.gif" width="400px"> <img src="media/loop_mapping2.gif" width="414px">
 
 # :white_check_mark: OrthSynergy Descriptors Visualization<br>
-- Different testing environments and sensor types
+- KITTI 00 and 13 scene<br>
 <img src="media/KITTI_00.gif" width="360px"> <img src="media/KITTI_13.gif" width="360px"><br>
 - MulRan Riverside02 and Kaist03 scene<br>
 <img src="media/MulRan_Riverside02.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
 
 # :rocket: SLAM System Integration<br>
-- KITTI 00 and 13 scene<br>
+- Different testing environments and sensor types<br>
 <img src="media/mapping_example1.gif" width="360px"> <img src="media/mapping_example2.gif" width="360px"><br>
 <img src="media/mapping_example3.gif" width="360px"> <img src="media/mapping_example4.gif" width="360px"><br>
 
