@@ -10,7 +10,7 @@
 
 <img src="media/loop_mapping.gif" width="400px"> <img src="media/loop_mapping2.gif" width="414px">
 
-# OrthSynergy Descriptors Visualization<br>
+# :white_check_mark: OrthSynergy Descriptors Visualization<br>
 - KITTI 00 and 13 scene<br>
 <img src="media/KITTI_00.gif" width="360px"> <img src="media/KITTI_13.gif" width="360px"><br>
 - MulRan Riverside02 and Kaist03 scene<br>
