@@ -4,13 +4,14 @@
 The source code will be released.
 
 # Loop Detection Visualization<br>
-- HKU Campus scene<br>
+- Campus loop scenes<br>
 <img src="media/loop_mapping.gif" width="520px"> <br>
+
 # OrthSynergy Descriptors Visualization<br>
 - KITTI 00 and 13 scene<br>
-<img src="media/KITTI_00.gif" width="380px"> <img src="media/KITTI_13.gif" width="380px"><br>
+<img src="media/KITTI_00.gif" width="360px"> <img src="media/KITTI_13.gif" width="360px"><br>
 - MulRan Riverside02 and Kaist03 scene<br>
-<img src="media/MulRan_Riverside02.gif" width="380px"> <img src="media/MulRan_Kaist03.gif" width="380px"><br>
+<img src="media/MulRan_Riverside02.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
 
 # Datasets Download and Preparation
 To evaluate the LCD performance, you will need to **download** the required datasets.
