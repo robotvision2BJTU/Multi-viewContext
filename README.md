@@ -1,9 +1,18 @@
 # OrthSynergy: Orthogonal Feature-based Global Descriptor for Loop Closure Detection in Large-scale Scenes
 
 # To Do
-The source code will be uploaded.
+The source code will be released.
 
-# Data Download and Preparation
+# Loop Detection Visualization<br>
+- HKU Campus scene<br>
+<img src="media/loop_mapping.gif" width="520px"> <br>
+# OrthSynergy Descriptors Visualization<br>
+- KITTI 00 and 13 scene<br>
+<img src="media/KITTI_00.gif" width="380px"> <img src="media/KITTI_13.gif" width="380px"><br>
+- MulRan Riverside02 and Kaist03 scene<br>
+<img src="media/MulRan_Riverside02.gif" width="380px"> <img src="media/MulRan_Kaist03.gif" width="380px"><br>
+
+# Datasets Download and Preparation
 To evaluate the LCD performance, you will need to **download** the required datasets.
 
 - SemanticKITTI Dataset- [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos).
@@ -80,14 +89,6 @@ To evaluate the LCD performance, you will need to **download** the required data
                        ├── 000001.bin
                        └── ...
 ```
-# Example: Loop Detection Visualization<br>
-- HKU Campus scene<br>
-<img src="media/loop_mapping.gif" width="520px"> <br>
-# Example: LCD Visualization<br>
-- KITTI 00 and 13 scene<br>
-<img src="media/KITTI_00.gif" width="380px"> <img src="media/KITTI_13.gif" width="380px"><br>
-- MulRan Riverside02 and Kaist03 scene<br>
-<img src="media/MulRan_Riverside02.gif" width="380px"> <img src="media/MulRan_Kaist03.gif" width="380px"><br>
 
 The red trajectory indicates the route where loop closures have been detected.
 ## Acknowledgments
