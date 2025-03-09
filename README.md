@@ -17,7 +17,7 @@
 - MulRan Riverside02 and Kaist03 scene<br>
 <img src="media/MulRan_Riverside02.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
 
-# Datasets Download and Preparation
+# :hammer_and_pick: Datasets Download and Preparation
 To evaluate the LCD performance, you will need to **download** the required datasets.
 
 - SemanticKITTI Dataset- [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos).
