@@ -7,7 +7,7 @@
 
 # :sparkles: Loop Detection Visualization<br>
 - Campus Loop Scenes<br>
-Note: If the video hasn't finished loading due to slow internet speed, you can access the files loop_mapping.gif and loop_mapping2.gif directly from the media folder.
+Note: If the video hasn't finished loading due to slow internet speed, you can access the files loop_mapping.gif and loop_mapping2.gif directly from the media folder.<br>
 <img src="media/loop_mapping.gif" width="400px"> <img src="media/loop_mapping2.gif" width="414px">
 
 # :white_check_mark: OrthSynergy Descriptors Visualization<br>
@@ -18,7 +18,7 @@ Note: If the video hasn't finished loading due to slow internet speed, you can a
 
 # :rocket: SLAM System Integration<br>
 - Different testing environments and sensor types<br>
-Note: If the video hasn't finished loading due to slow internet speed, you can access the files mapping_example.gif directly from the media folder.
+Note: If the video hasn't finished loading due to slow internet speed, you can access the files mapping_example.gif directly from the media folder.<br>
 <img src="media/mapping_example1.gif" width="360px"> <img src="media/mapping_example2.gif" width="360px"><br>
 <img src="media/mapping_example3.gif" width="360px"> <img src="media/mapping_example4.gif" width="360px"><br>
 
